@@ -1,2 +1,3 @@
 Hello,Git.
 Feature added.
+I have merged with feature-update branch into the main branch.
